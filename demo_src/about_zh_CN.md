@@ -7,7 +7,6 @@ status: publish
 author: jsq
 categories: 
   - Maverick
-  - Dev
 tags: 
   - theme
 ---
