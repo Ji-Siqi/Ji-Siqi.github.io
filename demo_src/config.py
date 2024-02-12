@@ -52,6 +52,11 @@ nav = [
         "name": "电子木鱼",
         "url": "${site_prefix}woodfish/",
         "target": "_self"
+    },
+    {
+        "name": "小恐龙跑酷",
+        "url": "${site_prefix}dino/",
+        "target": "_self"
     }
 ]
 
