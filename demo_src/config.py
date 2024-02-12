@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "./"
+site_prefix = "ji-siqi.github.iO/"
 template = "Galileo"
 index_page_size = 10
 archives_page_size = 30
