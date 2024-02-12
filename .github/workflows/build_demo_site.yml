@@ -14,10 +14,10 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Set up Python 3.9
+    - name: Set up Python 3.5
       uses: actions/setup-python@v1
       with:
-        python-version: 3.9
+        python-version: 3.5
 
     - name: Install dependencies
       run: |
@@ -25,7 +25,7 @@ jobs:
 
     - name: Build
       env:
-        site_prefix: ./
+        site_prefix: //
       run: |
         python3 mvrk.py --config ./demo_src/config.py --source_dir ./demo_src/ --build_dir ./dist/
 
