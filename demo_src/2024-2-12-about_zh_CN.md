@@ -4,7 +4,7 @@ title: About
 slug: about-zh-CN
 date: 2024/02/12 15:03:00
 status: publish
-author: AlanDecode
+author: jsq
 categories: 
   - Maverick
   - Dev
@@ -17,11 +17,4 @@ Maverick 是一个基于 Python 构建的静态博客生成器。类似 Hexo 和
 
 如果您对复杂的插件和复杂的配置感到厌倦，只需尝试一下Maverick。 您可以专注于写作，让Maverick负责其余的工作。
 
-欢迎提交 Pull requests。如果你有一些问题和建议，请前往 [issue area](https://github.com/Ji-Siqi/Ji-Siqi.github.io/issues) 给我们留言。 提问之前，请先阅读完本文档。
-
-
-## Contact
-
-Email: hi#imalan.cn (replace # with @)
-
-Telegram：[AlanDecode](https://t.me/alandecode)
+欢迎提交 Pull requests。如果你有一些问题和建议，请前往 [issue area](https://github.com/Ji-Siqi/Ji-Siqi.github.io/issues) 给我们留言。 提问之前，请先阅读完文档。
