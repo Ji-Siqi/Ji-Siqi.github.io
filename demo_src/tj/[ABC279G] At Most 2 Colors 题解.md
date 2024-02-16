@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 搭配买卖题解
-slug: P1455-sol
-date: 2023-08-18 21:08
+title: "[ABC279G] At Most 2 Colors 题解"
+slug: ABC279G-sol
+date: 2024-02-03 19:09
 status: publish
 author: jsq
 excerpt: 对各位神犇来说都是水题
