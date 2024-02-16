@@ -7,7 +7,7 @@ site_prefix = "./"
 template = "Galileo"
 index_page_size = 10
 archives_page_size = 30
-fetch_remote_imgs = False
+fetch_remote_imgs = True
 enable_jsdelivr = {
     "enabled": False,
     "repo": "AlanDecode/Maverick@gh-pages"
