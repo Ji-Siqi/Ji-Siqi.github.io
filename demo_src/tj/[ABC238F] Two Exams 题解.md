@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Typography
+title: [ABC238F] Two Exams 题解
 slug: ABC238-sol
 date: 2024/02/05 15:41:00
 status: publish
