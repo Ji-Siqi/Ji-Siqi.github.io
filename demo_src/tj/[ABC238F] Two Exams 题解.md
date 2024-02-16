@@ -1,3 +1,16 @@
+---
+layout: post
+title: Typography
+slug: ABC238-sol
+date: 2024/02/05 15:41:00
+status: publish
+author: jsq
+categories: 
+  - 题解
+tags:
+  - DP
+---
+
 [题目链接](https://www.luogu.com.cn/problem/AT_abc238_f)
 
 # 题意
