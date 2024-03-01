@@ -65,6 +65,11 @@ social_links = [
         "name": "GitHub",
         "url": "https://github.com/Ji-Siqi",
         "icon": "gi gi-github"
+    }, 
+    {
+        "name": "GitHub repository",
+        "url": "https://github.com/Ji-Siqi/Ji-Siqi.github.io",
+        "icon": "gi gi-github"
     }
 ]
 
